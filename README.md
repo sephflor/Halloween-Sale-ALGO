@@ -1,1 +1,1 @@
-# Halloween-Sale-ALGO
+# Halloween-Sale-ALGO.This program calculates how many games can be bought with a given budget, starting at price p and reducing by d after each purchase until reaching the minimum price m. It subtracts each game's cost from the budget s until no more games can be afforded, then returns the total count.
